@@ -2,7 +2,6 @@
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUDED&color=GREEN&style=for-the-badge"/>
 </p>
-Sorteio de Amigos
 
 Este é um projeto simples para adicionar amigos a uma lista e sortear um deles aleatoriamente. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
 
