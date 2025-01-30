@@ -15,7 +15,6 @@ function adicionarAmigos() {
         exibirAmigos();
     }
 }
-document.querySelector('.button-add').addEventListener('click', adicionarAmigos);
 document.getElementById('amigo').addEventListener('keypress', function (e) {
     if (e.key === 'Enter') {
         adicionarAmigos(); 
