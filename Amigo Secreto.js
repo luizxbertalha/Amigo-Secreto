@@ -1,5 +1,4 @@
 
-
 let amigos = [];
 
 function adicionarAmigos() {
